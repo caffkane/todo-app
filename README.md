@@ -3,13 +3,10 @@ A simple to-do app using react, redux, immutable
 
 ## Requires
 
-[React](https://reactjs.org/ "React")
-
-[node.js](https://www.nodejs.org "Node.js")
-
-[immutable.js](https://facebook.github.io/immutable-js/ "Immutable.js")
-
-[Redux](https://redux.js.org/ "Redux")
+[React](https://reactjs.org/ "React") | 
+[node.js](https://www.nodejs.org "Node.js") | 
+[immutable.js](https://facebook.github.io/immutable-js/ "Immutable.js") | 
+[Redux](https://redux.js.org/ "Redux") | 
 
 ## Installation
 ```
