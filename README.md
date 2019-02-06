@@ -1,7 +1,7 @@
 # todo-app
 A simple to-do app using react, redux, immutable 
 
-Requires
+## Requires
 
 [React](https://reactjs.org/ "React")
 
@@ -11,7 +11,7 @@ Requires
 
 [Redux](https://redux.js.org/ "Redux")
 
-# Installation
+## Installation
 ```
 git clone git@github.com:tekm/reddit-clone.git
 cd todo-app
